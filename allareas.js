@@ -1,1 +1,1 @@
-var countries= ["Abingdon", "Accrington", "Acton", "Sutton Coldfield"];
+"Abingdon", "Accrington", "Acton", "Sutton Coldfield"
